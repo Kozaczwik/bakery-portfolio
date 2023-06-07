@@ -1,0 +1,38 @@
+.ofirmie{
+position: absolute;
+margin-top: 200px;
+
+}
+.dane{
+    position: absolute;
+    margin-top: 500px;
+}
+.obsługa{
+    position: absolute;
+    margin-top: 500px;
+}
+.dzial{
+    position: absolute;
+    margin-top: 500px;
+}
+.opis{
+    position: absolute;
+    margin-left: 340px;
+    margin-top: 120px;
+    padding: 2px;
+    word-spacing: 1.5px;
+}
+.opis2{
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 290px;
+    padding: 2px;
+    word-spacing: 1.5px;
+}
+
+.ofirmie1{
+    position: absolute;
+    margin-left: 240px;
+    margin-top: 40px;
+    padding: 2px;
+}
